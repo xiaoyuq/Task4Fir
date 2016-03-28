@@ -1,0 +1,36 @@
+.tuoyuan{
+    width:100px;
+    height:100px;
+    border-radius:50px 100px 50px 100px;
+    background:#4cae4c;
+}
+.wrap {
+    background: #ccc;
+    width: 400px;
+    height: 200px;
+ /*   position:absolute;
+    top:50%;
+    left:50%;
+    margin-left: -200px;
+    margin-top: -100px;*/
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+}
+.shan1{
+    width: 50px;
+    height:50px;
+    border-radius:0 0 50px 0;
+    position: absolute;
+    margin:0;
+    background: #fc0;
+}
+.shan2{
+    width: 50px;
+    height:50px;
+    border-radius:50px 0  0 0;
+    position: absolute;
+    margin-left:350px;
+    margin-top:150px;
+    background: #fc0;
+}
